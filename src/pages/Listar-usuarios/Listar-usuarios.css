@@ -1,0 +1,22 @@
+.container{
+    background-color: white;
+    height: 500px;
+    width: 650px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 30px;
+    padding-top: 10px;
+    
+}
+
+.text{
+    margin-left: 40px;
+    font-size: 20px;
+    color: black;
+}
+
+.text-principal{
+    margin-left: 40px;
+    display: flex;
+    color: rgb(215, 18, 195);
+}
